@@ -15,7 +15,7 @@ flowchart TD
     F7[Fase 6: Portal educativo y visibilidad 🌐]
     F8[Fase 7: Mantenimiento 🔧]
 
-    F0 --> F1 --> F2 --> F3 --> F4 --> F5 --> F6 --> F7 -> F8
+    F0 --> F1 --> F2 --> F3 --> F4 --> F5 --> F6 --> F7 --> F8
 ```
 
 
