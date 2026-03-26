@@ -3,22 +3,6 @@
 Esta hoja de ruta organiza el desarrollo del proyecto **Mobile Forensics Lab**, desde la preparación inicial hasta la gestión de contribuciones y mantenimiento continuo. 
 
 
-```mermaid
-flowchart TD
-    F0[Fase 0: Preparación del proyecto 📌]
-    F1[Fase 1: Contribuciones y comunidad 🤝]
-    F2[Fase 2: Automatización ⚙️]
-    F3[Fase 3: Contribuciones 🤝]
-    F4[Fase 3: Documentación y experiencia educativa 📚]
-    F5[Fase 4: Laboratorios 🧪]
-    F6[Fase 5: Versionado y releases 🏷️]
-    F7[Fase 6: Portal educativo y visibilidad 🌐]
-    F8[Fase 7: Mantenimiento 🔧]
-
-    F0 --> F1 --> F2 --> F3 --> F4 --> F5 --> F6 --> F7 --> F8
-```
-
-
 ## Fase 0: Preparación del proyecto 📌
 
 - [x] Definir alcance de `Mobile-Forensics-Lab`. 
