@@ -21,10 +21,10 @@ flowchart TD
 
 ## Fase 0: Preparación del proyecto 📌
 
-- [ ] Definir alcance de `Mobile-Forensics-Lab`. 
-- [ ] Definir estructura inicial del proyecto.
-- [ ] Crear estructura inicial de carpetas. 
-- [ ] Configurar README inicial. 
+- [x] Definir alcance de `Mobile-Forensics-Lab`. 
+- [x] Definir estructura inicial del proyecto.
+- [x] Crear estructura inicial de carpetas. 
+- [x] Configurar README inicial. 
 - [ ] Definir licencias para la documentación, laboratorio, código, y otros recursos. 
 - [ ] Configurar badges iniciales en README. 
 
