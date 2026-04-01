@@ -1,8 +1,22 @@
 # 🔬 Mobile Forensics Lab 
 
-> Hands-on Playground for Mobile Digital Forensics [📱] + [🔍] + [🧪]
+![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success)
+![Forensics](https://img.shields.io/badge/Digital%20Forensics-Project-blue)
+![Security](https://img.shields.io/badge/Security-Research-red)
+![Status](https://img.shields.io/badge/Status-Experimental-yellow)
+![License: Apache-2.0](https://img.shields.io/badge/tools-Apache%202.0-blue)
+![Docs: CC BY-NC-SA](https://img.shields.io/badge/docs/ctf/cases-CC%20BY--NC--SA-orange)
+![Datasets: CC BY-NC](https://img.shields.io/badge/datasets-CC%20BY--NC-lightgrey)
 
-**Mobile Forensics Lab** es un proyecto open source diseñado como un **playground práctico** donde puedes aprende análisis forense en dispositivos móviles **haciendo**, no solo leyendo.
+![Stars](https://img.shields.io/github/stars/Smithech/Mobile-Forensics-Lab)
+![Forks](https://img.shields.io/github/forks/Smithech/Mobile-Forensics-Lab)
+![Contributors](https://img.shields.io/github/contributors/Smithech/Mobile-Forensics-Lab)
+
+
+> Hands-on Playground for Mobile Digital Forensics 📱 + 🔍 + 🧪
+
+**Mobile Forensics Lab** es un proyecto open source diseñado como unSmithech/Mobile-Forensics-Labound práctico** donde puedes aprende análisis forense en dispositivos móviles **haciendo**, no solo leyendo.
 
 
 ## 🚀 ¿Por qué este proyecto?
@@ -81,9 +95,20 @@ Este es un proyecto abierto. Puedes ayudar creando:
 Estamos en la fase de formalización del proyecto, así que por ahora no estamos recibiendo contribuciones activas, más allá de ideas. Conoce nuestro [Roadmap](ROADMAP.md) para conocer el avance del proyecto y las fases futuras.  
 
 
+## 📜 License
+
+This project uses a **multi-license approach**:
+
+* 💻 Code → Apache 2.0
+* 📄 Documentation & CTF → CC BY-NC-SA 4.0
+* 🧪 Datasets → CC BY-NC 4.0
+
+See the [`LICENSE`](LICENSE) file for details.
+
+
 ## ⚠️ Disclaimer
 
-Este proyecto es solo para fines educativos. El uso indebido de estas técnicas es responsabilidad del usuario.
+Este proyecto tiene fines exclusivamente educativos y de investigación. Consulte [`DISCLAIMER`](DISCLAIMER.md) para obtener más detalles. 
 
 
 ## ⭐ Apoya el proyecto
