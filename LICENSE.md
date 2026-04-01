@@ -1,0 +1,28 @@
+# License Overview
+
+This repository uses a **multi-license structure** depending on the type of content.
+
+## 📦 Code (scripts, tools)
+
+All source code located in `/tools` is licensed under the **Apache License 2.0**.
+
+## 📄 Documentation, Labs, Cases, and CTF Challenges
+
+All educational material (guides, labs, walkthroughs, CTF challenges) located in `/ctf`, `/docs`, `/labs` and `/ctf` is licensed under:
+
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
+
+## 🧪 Datasets 
+
+All datasets located in `/datasets` are licensed under:
+
+**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**
+
+## ⚠️ Important Notes
+
+* This project is intended **for educational and research purposes only**.
+* See [`DISCLAIMER`](DISCLAIMER.md) for limitations of use and liability.
+
+## 📬 Contact
+
+For commercial licensing or special permissions, please contact the repository owner.
