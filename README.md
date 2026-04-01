@@ -16,7 +16,7 @@
 
 > Hands-on Playground for Mobile Digital Forensics 📱 + 🔍 + 🧪
 
-**Mobile Forensics Lab** es un proyecto open source diseñado como unSmithech/Mobile-Forensics-Labound práctico** donde puedes aprende análisis forense en dispositivos móviles **haciendo**, no solo leyendo.
+**Mobile Forensics Lab** es un proyecto open source diseñado como un **playground práctico** donde puedes aprende análisis forense en dispositivos móviles **haciendo**, no solo leyendo.
 
 
 ## 🚀 ¿Por qué este proyecto?
