@@ -9,8 +9,8 @@ Esta hoja de ruta organiza el desarrollo del proyecto **Mobile Forensics Lab**, 
 - [x] Definir estructura inicial del proyecto.
 - [x] Crear estructura inicial de carpetas. 
 - [x] Configurar README inicial. 
-- [ ] Definir licencias para la documentación, laboratorio, código, y otros recursos. 
-- [ ] Configurar badges iniciales en README. 
+- [x] Definir licencias para la documentación, laboratorio, código, y otros recursos. 
+- [x] Configurar badges iniciales en README. 
 
 
 ## Fase 1: Contribuciones y comunidad 🤝
@@ -21,7 +21,7 @@ Esta hoja de ruta organiza el desarrollo del proyecto **Mobile Forensics Lab**, 
     - Cómo documentar scripts.
     - Estilo Markdown y documentación.
     - Proceso de Pull Request. 
-- [ ] Crear `CODE_OF_CONDUCT.md`.
+- [x] Crear `CODE_OF_CONDUCT.md`.
 - [ ] Configurar plantillas de Issues y Pull Requests en `.github/`.
 - [ ] Crear sistema de etiquetado para Issues.
 - [ ] Definir roles: `mantenedor`, `colaborador`, `reviewer`.
