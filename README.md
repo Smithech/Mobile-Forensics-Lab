@@ -11,6 +11,8 @@
 
 ![Stars](https://img.shields.io/github/stars/Smithech/Mobile-Forensics-Lab)
 ![Forks](https://img.shields.io/github/forks/Smithech/Mobile-Forensics-Lab)
+![Issues](https://img.shields.io/github/issues/Smithech/Mobile-Forensics-Lab)
+![Pull](https://img.shields.io/github/issues-pr/Smithech/Mobile-Forensics-Lab)
 ![Contributors](https://img.shields.io/github/contributors/Smithech/Mobile-Forensics-Lab)
 
 
