@@ -1,0 +1,44 @@
+name: "⛳ CTF Challenge"
+description: Propose a forensic CTF challenge
+title: "[CTF] <Issue Title>"
+labels: ["ctf"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Challenge Name
+    validations:
+      required: true
+
+  - type: dropdown
+    id: difficulty
+    attributes:
+      label: Difficulty
+      options:
+        - Easy
+        - Medium
+        - Hard
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Challenge Description
+    validations:
+      required: true
+
+  - type: textarea
+    id: flags
+    attributes:
+      label: Expected Flags
+
+  - type: textarea
+    id: data
+    attributes:
+      label: Data/Artifacts Included
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Solution Outline
