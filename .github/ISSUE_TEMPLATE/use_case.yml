@@ -1,0 +1,34 @@
+name: "🧩 Use Case"
+description: Propose a real-world forensic scenario
+title: "[USE-CASE] <Issue Title>"
+labels: ["use-case"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Use Case Name
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Real-world situation
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem Statement
+
+  - type: textarea
+    id: forensic_value
+    attributes:
+      label: Forensic Value
+
+  - type: textarea
+    id: data
+    attributes:
+      label: Data Involved
