@@ -1,0 +1,28 @@
+name: "🛠 Tool Proposal"
+description: Suggest or build a forensic tool
+title: "[TOOL] <Issue Title>"
+labels: ["tool"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Tool Name
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+    validations:
+      required: true
+
+  - type: textarea
+    id: functionality
+    attributes:
+      label: Functionality
+
+  - type: textarea
+    id: use_case
+    attributes:
+      label: Use Case
