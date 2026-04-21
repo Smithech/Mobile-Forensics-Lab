@@ -1,0 +1,55 @@
+name: "🧪 Lab Proposal"
+description: Propose a new mobile forensics lab
+title: "[LAB] <Issue Title>"
+labels: ["lab"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Lab Name
+      placeholder: e.g., Android Deleted Messages Analysis
+    validations:
+      required: true
+
+  - type: dropdown
+    id: difficulty
+    attributes:
+      label: Difficulty
+      options:
+        - Beginner
+        - Intermediate
+        - Advanced
+    validations:
+      required: true
+
+  - type: textarea
+    id: objective
+    attributes:
+      label: Objective
+      description: What will the user learn?
+    validations:
+      required: true
+
+  - type: textarea
+    id: scenario
+    attributes:
+      label: Scenario
+      description: Describe the forensic context
+    validations:
+      required: true
+
+  - type: textarea
+    id: data
+    attributes:
+      label: Required Data
+      description: نوع de dataset o artefactos necesarios
+
+  - type: textarea
+    id: skills
+    attributes:
+      label: Skills Covered
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional Notes
