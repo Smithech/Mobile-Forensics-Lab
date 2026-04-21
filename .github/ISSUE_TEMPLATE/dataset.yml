@@ -1,0 +1,44 @@
+name: "📦 Dataset Proposal"
+description: Suggest a dataset for labs or CTFs
+title: "[DATASET] <Issue name>"
+labels: ["dataset"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Dataset Name
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+    validations:
+      required: true
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: Data Type
+      options:
+        - Android Image
+        - Logs
+        - Network Capture
+        - Mixed
+
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: Real / Synthetic / Public
+
+  - type: textarea
+    id: privacy
+    attributes:
+      label: Privacy Considerations
+
+  - type: textarea
+    id: usage
+    attributes:
+      label: Suggested Use
