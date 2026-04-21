@@ -1,12 +1,12 @@
 name: "🧪 Lab Proposal"
 description: Propose a new mobile forensics lab
-title: "[LAB] <Issue title>"
+title: "[LAB] <Issue Title>"
 labels: ["lab"]
 body:
   - type: input
-    id: title
+    id: name
     attributes:
-      label: Lab Title
+      label: Lab Name
       placeholder: e.g., Android Deleted Messages Analysis
     validations:
       required: true

@@ -1,6 +1,6 @@
 name: "📦 Dataset Proposal"
 description: Suggest a dataset for labs or CTFs
-title: "[DATASET] <Issue name>"
+title: "[DATASET] <Issue Title>"
 labels: ["dataset"]
 body:
   - type: input
